@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#400055</color>
+    <color name="colorFontDark">#6E4DE5</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="grayPrimary">#7F8DAB</color>
+    <color name="violetPrimary">#6E4DE5</color>
+    <color name="greenPrimary">#1abc9c</color>
+    <color name="blackPrimary">#434A5E</color>
+
+    <color name="bgVioletPrimary">#9C27B0</color>
+    <color name="bgPurplePrimary">#E0673AB7</color>
+    <color name="bgBluePrimary">#3F51B5</color>
+
+    <color name="kuningBintang">#FFC107</color>
+</resources>

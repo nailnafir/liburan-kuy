@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540140009518",
+    "firebase_url": "https://liburan-kuy.firebaseio.com",
+    "project_id": "liburan-kuy",
+    "storage_bucket": "liburan-kuy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540140009518:android:1f29e73feeb0aa5a1c07bf",
+        "android_client_info": {
+          "package_name": "firstbelajar.digitalsoftware.liburankuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540140009518-2t5ap8r8h4vv9t2e96imuibek1ekqsnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWn1Vzoeg2h4mCE4HwzpLb-_XIYcJi240"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540140009518-2t5ap8r8h4vv9t2e96imuibek1ekqsnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
