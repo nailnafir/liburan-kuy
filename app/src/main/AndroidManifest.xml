@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="firstbelajar.digitalsoftware.liburankuy">
+    package="com.nailnafir.liburan">
 
     <application
         android:allowBackup="true"
@@ -9,24 +9,26 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".DialogBarcode" />
-        <activity android:name=".EditProfileActivity" />
-        <activity android:name=".MyTicketDetailActivity" />
-        <activity android:name=".MyBalanceActivity" />
-        <activity android:name=".MyTicketActivity" />
-        <activity android:name=".SuccessBuyTicketActivity" />
-        <activity android:name=".TicketCheckoutActivity" />
-        <activity android:name=".TicketDetailActivity" />
-        <activity android:name=".GetStarted3" />
-        <activity android:name=".GetStarted2" />
-        <activity android:name=".GetStarted1" />
-        <activity android:name=".HomeActivity" />
-        <activity android:name=".MyProfileActivity" />
-        <activity android:name=".SuccessRegisterActivity" />
-        <activity android:name=".RegisterTwoActivity" />
-        <activity android:name=".RegisterOneActivity" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.nailnafir.liburan.DialogBarcode" />
+        <activity android:name="com.nailnafir.liburan.EditProfileActivity" />
+        <activity android:name="com.nailnafir.liburan.MyTicketDetailActivity" />
+        <activity android:name="com.nailnafir.liburan.MyBalanceActivity" />
+        <activity android:name="com.nailnafir.liburan.MyTicketActivity" />
+        <activity android:name="com.nailnafir.liburan.SuccessBuyTicketActivity" />
+        <activity android:name="com.nailnafir.liburan.TicketCheckoutActivity" />
+        <activity android:name="com.nailnafir.liburan.TicketDetailActivity" />
+        <activity android:name="com.nailnafir.liburan.GetStarted3" />
+        <activity android:name="com.nailnafir.liburan.GetStarted2" />
+        <activity android:name="com.nailnafir.liburan.GetStarted1" />
+        <activity android:name="com.nailnafir.liburan.HomeActivity" />
+        <activity android:name="com.nailnafir.liburan.MyProfileActivity" />
+        <activity android:name="com.nailnafir.liburan.SuccessRegisterActivity" />
+        <activity android:name="com.nailnafir.liburan.RegisterTwoActivity" />
+        <activity android:name="com.nailnafir.liburan.RegisterOneActivity" />
+        <activity android:name="com.nailnafir.liburan.LoginActivity" />
+        <activity
+            android:name="com.nailnafir.liburan.MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
